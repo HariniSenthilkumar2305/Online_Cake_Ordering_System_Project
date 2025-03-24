@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+E:\SEMESTER 5\WAD JAVA\WAD JAVA PROJECT\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3399745614.index
+1072399309.index
+670694892.index
+3797875527.index
+775806007.index
+3707355314.index
