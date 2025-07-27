@@ -1,3 +1,0 @@
-INDEX VERSION 1.134
-E:\SEMESTER 5\WAD JAVA\WAD JAVA PROJECT\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4276146918.index
-\WAD JAVA ONLINE CAKE ORDERING SYSTEM PROJECT\src\main\java
